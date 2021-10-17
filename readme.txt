@@ -1,4 +1,10 @@
 git clone <git url>
+raje nanka
+raghz manasu
+mego meku
+ravan
+koolu
+
 
    18  ll
    19  git status 			## check the status of the git changes in  local
